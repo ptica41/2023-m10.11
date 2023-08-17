@@ -127,6 +127,11 @@ main {
   background: #cd853f;
 }
 
+.fruit_gray {
+  background: #444346;
+}
+
+
 .fruit__info {
   display: flex;
   justify-content: center;
